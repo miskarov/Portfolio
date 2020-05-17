@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94ad456e-b345-4104-82a4-909ab8df03aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFdv9AxGOqbyH9X5pqOkOlI5OB" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CalculatorTor" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.UniversityTest.editStudentTest">
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="university.Run" />
+      <module name="MyUniversity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="university.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniversityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyUniversity" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UniversityTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniversityTest.editStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyUniversity" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UniversityTest" />
+      <option name="METHOD_NAME" value="editStudentTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniversityTest.removeStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyUniversity" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UniversityTest" />
+      <option name="METHOD_NAME" value="removeStudentTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UniversityTest.editStudentTest" />
+        <item itemvalue="JUnit.UniversityTest.removeStudentTest" />
+        <item itemvalue="Application.Run" />
+        <item itemvalue="JUnit.UniversityTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94ad456e-b345-4104-82a4-909ab8df03aa" name="Default Changelist" comment="" />
+      <created>1586335503757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586335503757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586778887942">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1586778887942" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586344336858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1586344336858" />
+    <state width="1323" height="151" key="GridCell.Tab.0.bottom" timestamp="1586881431629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1586881431629" />
+    <state width="1323" height="151" key="GridCell.Tab.0.center" timestamp="1586881431629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1586881431629" />
+    <state width="1323" height="151" key="GridCell.Tab.0.left" timestamp="1586881431629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1586881431629" />
+    <state width="1323" height="151" key="GridCell.Tab.0.right" timestamp="1586881431629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="151" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1586881431629" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1586338893675">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1586338893675" />
+    <state x="426" y="213" key="com.intellij.ide.util.TipDialog" timestamp="1587898384208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1586962310941" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586877395370" />
+    <state x="426" y="213" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587898384208" />
+  </component>
+</project>

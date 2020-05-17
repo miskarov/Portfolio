@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+	  <city>Odessa</city>
+	  <street>Staroportofrankovskaya str</street>
+	  <house>103a</house>
+	  <apartment>4</apartment>
+    </user>	
+    <user>
+	  <city>Kiev</city>
+	  <street>Babelya str</street>
+	  <house>45</house>
+	  <apartment>14</apartment>
+    </user>	
+    <user>
+	  <city>Kherson</city>
+	  <street>Lynatikov str</street>
+	  <house>1/3</house>
+	  <apartment>67</apartment>
+    </user>	
+    <user>
+	  <city>Zhytomyr</city>
+	  <street>Kharlamova pr-t</street>
+	  <house>14</house>
+	  <apartment>8</apartment>
+    </user>	
+    <user>
+	  <city>Odessa</city>
+	  <street>Generala Petrova str</street>
+	  <house>80</house>
+	  <apartment>25</apartment>
+    </user>	
+</users>

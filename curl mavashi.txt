@@ -1,0 +1,7 @@
+curl -v -X POST -d "{\"account\":\"miskarov\", \"password\":\"qwerty12345\", \"username\":\"miskarov@cat.od\"}" -H "Content-Type: application/json"  http://development.mawashi.tools:8080/api/rest/v1.0/auth/signup
+curl -v -X POST -d "{\"account\":\"miskarov\", \"password\":\"qwerty12345\", \"username\":\"miskarov@cat.od\"}" -H "Content-Type: application/json"  http://development.mawashi.tools:8080/api/rest/v1.0/auth/signin
+curl -v -H "Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxMTkiLCJpYXQiOjE1ODQ1MzM4NDQsImV4cCI6MTU4NTEzODY0NH0.Ck_epFuJoZfSKOlWjTS9m9Jy3PWJ1ZRtxMN_8QHt7tVRlIYQhXcI5e4YuLou0CG8qhs7vH5T8ey4J9c7uqaYrg" http://development.mawashi.tools:8080/api/rest/v1.0/
+
+
+ Создание проекта curl -v -X POST -d "{\"name\":\"Antidote-COVID-19\"}" -H "Content-Type: application/json" -H "Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxMTkiLCJpYXQiOjE1ODQ1MzM4NDQsImV4cCI6MTU4NTEzODY0NH0.Ck_epFuJoZfSKOlWjTS9m9Jy3PWJ1ZRtxMN_8QHt7tVRlIYQhXcI5e4YuLou0CG8qhs7vH5T8ey4J9c7uqaYrg" http://development.mawashi.tools:8080/api/rest/v1.0/app/projects
+ Запрос проекта curl -v -H "Content-Type: application/json" -d "{\"name\": \"Antidote-COVID-19\"}" -H "Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxMTkiLCJpYXQiOjE1ODQ1MzM4NDQsImV4cCI6MTU4NTEzODY0NH0.Ck_epFuJoZfSKOlWjTS9m9Jy3PWJ1ZRtxMN_8QHt7tVRlIYQhXcI5e4YuLou0CG8qhs7vH5T8ey4J9c7uqaYrg" http://development.mawashi.tools:8080/api/rest/v1.0/app/projects
